@@ -4,7 +4,7 @@
             <div class="bg-gray-100 text-gray-500 rounded-3xl shadow-xl w-full overflow-hidden" style="max-width:1000px">
                 <div class="md:flex w-full">
                     <div class="hidden md:block w-1/2 bg-red-500 py-10 px-10 overflow-hidden">
-                        <img src="/img/undraw_my_app_re_gxtj.svg" alt="login-svg">
+                        <img src="/img/undraw_my_app_re_gxtj.svg" class="w-full h-full" alt="login-svg">
                     </div>
                     <div class="w-full md:w-1/2 py-10 px-5 md:px-10">
                         <div class="text-center mb-10">
