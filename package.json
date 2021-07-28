@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tailwindcss/forms": "^0.3.3",
     "@tailwindcss/jit": "^0.1.18",
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "animate.css": "^4.1.1",

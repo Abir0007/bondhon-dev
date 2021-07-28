@@ -2,6 +2,11 @@
   <div class="bg-white min-h-screen min-w-screen">
     <section class="relative min-h-screen w-full">
       <section class="text-gray-600 mt-10">
+        <div class="bg-red-50 bg-opacity-70 text-red-500 font-bold py-1">
+            <marquee behavior="scroll" direction="left">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde ut esse numquam temporibus, adipisci molestiae est facilis soluta itaque eligendi. Reiciendis ducimus, laudantium deleniti aut incidunt sint hic non voluptatibus!
+            </marquee>
+          </div>
         <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
           <div 
             data-aos-duration="1000"
